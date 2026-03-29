@@ -1,0 +1,5 @@
+{
+  "name": "Afghan School Timetable Generator",
+  "description": "A comprehensive system for generating conflict-free school timetables for grades 1-12, supporting teacher assignments and weekly subject frequencies.",
+  "requestFramePermissions": []
+}
