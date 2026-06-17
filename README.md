@@ -62,7 +62,7 @@ Created to simplify school administration and help institutions focus on educati
 
 - **Developer**: Sanaullah Shaheer
 - **Contact Email**: `everythingfree36@gmail.com`
-- **Application URL**: <a href="https://timetablegenerator.vercel.app" target="_blank">Afghan Timetable Generator</a>
+- **Application URL**: <a href="https://afghantimetablegenerator.vercel.app" target="_blank">Afghan Timetable Generator</a>
 ---
 
 Developed with ❤️ using React & TypeScript. Feel free to reach out with any issues or feature requests!
